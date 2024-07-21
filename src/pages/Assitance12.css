@@ -1,0 +1,812 @@
+.assitance-12 .background {
+  background: url('E:/Toury/toury/assets/images/Background1.jpeg');
+  position: absolute;
+  top: 0px;
+  right: -90px;
+  width: 1460px;
+  height: 821px;
+}
+.assitance-12 .nepal-mountains {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Bebas Kai', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 65px;
+  color: var(--primary-color, #EDEDF5);
+}
+.assitance-12 .visit-the-most-beautiful-mountains-in-the-world {
+  position: absolute;
+  left: 60px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT Std', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--primary-color, #EDEDF5);
+}
+.assitance-12 .black {
+  background: #010101;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 350px;
+}
+.assitance-12 .mountain {
+  background: url('E:/Toury/toury/assets/images/Mountain.png');
+  position: absolute;
+  left: 0px;
+  top: -350px;
+  right: 0px;
+  height: 720px;
+}
+.assitance-12 .home {
+  margin: 0 9.5px 3px 0;
+  display: inline-block;
+  width: 58px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.assitance-12 .destinations {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.assitance-12 .locations-picks {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.assitance-12 .foreigner-tours {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.assitance-12 .assistance {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFBC00;
+}
+.assitance-12 .container-1 {
+  margin-right: 0.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 690.9px;
+  box-sizing: border-box;
+}
+.assitance-12 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  margin-left: 610px;
+  width: 81px;
+  height: 2px;
+}
+.assitance-12 .frame-1 {
+  background: linear-gradient(180deg, rgba(74, 96, 116, 0.8) 7.2%, rgba(33, 31, 31, 0.8) 75%);
+  position: absolute;
+  top: 0px;
+  right: -100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 0 38px 0;
+  width: 1401px;
+  height: 87px;
+  box-sizing: border-box;
+}
+.assitance-12 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  width: 1440px;
+  height: 900px;
+}
+.assitance-12 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  width: 1440px;
+  height: 900px;
+}
+.assitance-12 .background-2 {
+  background: var(--maps-roadtrippers-com-pampas, #F5F2F0);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-12 .item-roadtrippers {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .container {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .mapbox {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .container-1 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .open-street-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .container-2 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .improve-this-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .item-roadtrippers {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .container {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .mapbox {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .link {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-12 .item {
+  margin-right: 7.7px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .container-1 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .open-street-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .link-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-12 .item-1 {
+  margin-right: 19.9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .container-2 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .improve-this-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .link-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-12 .item-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .overlay {
+  background: var(--maps-roadtrippers-com-nero-75, rgba(255, 255, 255, 0.75));
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 5.5px 25.2px 5.5px 5px;
+  box-sizing: border-box;
+}
+.assitance-12 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  width: 1440px;
+  height: 900px;
+}
+.assitance-12 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  width: 1440px;
+  height: 900px;
+}
+.assitance-12 .background-2 {
+  background: var(--maps-roadtrippers-com-pampas, #F5F2F0);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-12 .item-roadtrippers {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .container {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .mapbox {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .link {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-12 .item {
+  margin-right: 7.7px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .container-1 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .open-street-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .link-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-12 .item-1 {
+  margin-right: 19.9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .container-2 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .improve-this-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-12 .link-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-12 .item-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .overlay {
+  background: var(--maps-roadtrippers-com-nero-75, rgba(255, 255, 255, 0.75));
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 5.5px 25.2px 5.5px 5px;
+  box-sizing: border-box;
+}
+.assitance-12 .background-1 {
+  background: var(--maps-roadtrippers-com-ecru-white, #F3F4E7);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.assitance-12 .vector {
+  width: 14px;
+  height: 13.9px;
+}
+.assitance-12 .button {
+  border-radius: 4px;
+  margin: 0 0px 24.5px 0.1px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-12 .vector-1 {
+  width: 14.1px;
+  height: 3.3px;
+}
+.assitance-12 .button-1 {
+  border-radius: 0 0 4px 4px;
+  display: flex;
+  width: 32px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.assitance-12 .background-shadow {
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+  background: var(--maps-roadtrippers-com-nero, #FFFFFF);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.1px 9px 14.3px 8.9px;
+  width: 32px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.assitance-12 .zoom-3 {
+  background: var(--maps-roadtrippers-com-nero, #FFFFFF);
+  position: absolute;
+  right: -160px;
+  bottom: -275px;
+  padding: 0 46px;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-12 .container-5 {
+  margin: 11px 30.6px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Sharp', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  color: #F8F8F8;
+}
+.assitance-12 .bothrs {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--headertitle-font-family, 'Inter');
+  font-weight: var(--headertitle-font-weight, 600);
+  font-size: var(--headertitle-font-size, 18px);
+  line-height: var(--headertitle-line-height, 1);
+  color: #F8F8F8;
+}
+.assitance-12 .container-6 {
+  margin: 2px 9.6px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1;
+  color: #F8F8F8;
+}
+.assitance-12 .afew-minutes {
+  overflow-wrap: break-word;
+  font-family: var(--headersubtitle-font-family, 'Inter');
+  font-weight: var(--headersubtitle-font-weight, 400);
+  font-size: var(--headersubtitle-font-size, 14px);
+  line-height: var(--headersubtitle-line-height, 1.286);
+  color: #F8F8F8;
+}
+.assitance-12 .frame-31286 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-12 .widget-header {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.assitance-12 .header {
+  background: #458981;
+  display: flex;
+  flex-direction: row;
+  padding: 17.5px 0 17.5px 20.6px;
+  width: 423px;
+  box-sizing: border-box;
+}
+.assitance-12 .line {
+  background: #EBEBEB;
+  width: 423px;
+  height: 1.2px;
+}
+.assitance-12 .frame-31279 {
+  border-radius: 10px;
+  background: #F2F2F2;
+  width: 282.6px;
+  height: 71.5px;
+}
+.assitance-12 .operator {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  width: 345px;
+  height: 355px;
+  box-sizing: border-box;
+}
+.assitance-12 .frame-312791 {
+  border-radius: 10px;
+  background: #F2F2F2;
+  position: absolute;
+  right: 0.1px;
+  bottom: 34px;
+  width: 282.6px;
+  height: 102.8px;
+}
+.assitance-12 .you-seem-like-you-have-amedical-emergency {
+  margin: 0 18.7px 16px 18.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--chatoperator-body-font-family, 'Inter');
+  font-weight: var(--chatoperator-body-font-weight, 400);
+  font-size: var(--chatoperator-body-font-size, 15px);
+  line-height: var(--chatoperator-body-line-height, 1.4);
+  color: #000000;
+}
+.assitance-12 .vector-2 {
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-12 .assistant {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: relative;
+  margin: 91px 15.8px 0 0;
+  display: flex;
+  padding: 6px 7.1px 5.2px 8px;
+  width: 39px;
+  height: 37px;
+  box-sizing: border-box;
+}
+.assitance-12 .here-are-some-numbers-you-need-for-your-local-safety-call-198-call-197 {
+  margin-bottom: 23.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--chatoperator-body-font-family, 'Inter');
+  font-weight: var(--chatoperator-body-font-weight, 400);
+  font-size: var(--chatoperator-body-font-size, 15px);
+  line-height: var(--chatoperator-body-line-height, 1.4);
+  color: #000000;
+}
+.assitance-12 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .container-4 {
+  overflow-wrap: break-word;
+  font-family: var(--chatoperator-body-font-family, 'Inter');
+  font-weight: var(--chatoperator-body-font-weight, 400);
+  font-size: var(--chatoperator-body-font-size, 15px);
+  line-height: var(--chatoperator-body-line-height, 1.4);
+  color: #FFFFFF;
+}
+.assitance-12 .background-shadow-3 {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: absolute;
+  right: 26.6px;
+  bottom: 1px;
+  display: flex;
+  padding: 11.1px 11.9px 13.1px 9.5px;
+  box-sizing: border-box;
+}
+.assitance-12 .container-5 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-12 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.assitance-12 .conversationmove-me {
+  position: absolute;
+  left: 1px;
+  top: 13.2px;
+  display: flex;
+  padding: 11.6px 14.4px 0 0;
+  box-sizing: border-box;
+}
+.assitance-12 .frame-31280 {
+  border-radius: 10px;
+  background: #F2F2F2;
+  position: absolute;
+  left: 49px;
+  bottom: 52.2px;
+  width: 210.8px;
+  height: 37.9px;
+}
+.assitance-12 .container-3 {
+  overflow-wrap: break-word;
+  font-family: var(--chatoperator-body-font-family, 'Inter');
+  font-weight: var(--chatoperator-body-font-weight, 400);
+  font-size: var(--chatoperator-body-font-size, 15px);
+  line-height: var(--chatoperator-body-line-height, 1.4);
+  color: #FFFFFF;
+}
+.assitance-12 .background-shadow-2 {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  margin-bottom: 125px;
+  display: flex;
+  align-self: flex-start;
+  padding: 11.1px 12.2px 13.1px 11.2px;
+  box-sizing: border-box;
+}
+.assitance-12 .just-now-seen {
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: var(--chatmessage-stamp-font-family, 'Inter');
+  font-weight: var(--chatmessage-stamp-font-weight, 400);
+  font-size: var(--chatmessage-stamp-font-size, 13px);
+  line-height: var(--chatmessage-stamp-line-height, 1.2);
+  color: #737376;
+}
+.assitance-12 .assistant-1 {
+  border-radius: 54px;
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-12 .vector-3 {
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-12 .assistant-2 {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: relative;
+  margin: 19px 11.8px 0 0;
+  display: flex;
+  padding: 6px 7.1px 5.2px 8px;
+  width: 39px;
+  height: 37px;
+  box-sizing: border-box;
+}
+.assitance-12 .just-click-on-it {
+  position: relative;
+  margin: 0 53.2px 35.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--chatoperator-body-font-family, 'Inter');
+  font-weight: var(--chatoperator-body-font-weight, 400);
+  font-size: var(--chatoperator-body-font-size, 15px);
+  line-height: var(--chatoperator-body-line-height, 1.4);
+  color: #000000;
+}
+.assitance-12 .travelo-2-min-ago-1 {
+  margin: 40px 0 0.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--chatmessage-stamp-font-family, 'Inter');
+  font-weight: var(--chatmessage-stamp-font-weight, 400);
+  font-size: var(--chatmessage-stamp-font-size, 13px);
+  line-height: var(--chatmessage-stamp-line-height, 1.2);
+  color: #737376;
+}
+.assitance-12 .container-3 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-12 .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.assitance-12 .how-to-copy-the-numbers {
+  overflow-wrap: break-word;
+  font-family: var(--chatcustomer-body-font-family, 'Inter');
+  font-weight: var(--chatcustomer-body-font-weight, 400);
+  font-size: var(--chatcustomer-body-font-size, 15px);
+  line-height: var(--chatcustomer-body-line-height, 1.4);
+  color: #FFFFFF;
+}
+.assitance-12 .frame-353 {
+  border-radius: 6px;
+  background: #3047EC;
+  position: absolute;
+  right: 20px;
+  bottom: 158.2px;
+  padding: 11px 19px;
+  width: 262px;
+  box-sizing: border-box;
+}
+.assitance-12 .travelo-2-min-ago {
+  position: absolute;
+  right: 26.8px;
+  bottom: 226.2px;
+  overflow-wrap: break-word;
+  font-family: var(--chatmessage-stamp-font-family, 'Inter');
+  font-weight: var(--chatmessage-stamp-font-weight, 400);
+  font-size: var(--chatmessage-stamp-font-size, 13px);
+  line-height: var(--chatmessage-stamp-line-height, 1.2);
+  color: #737376;
+}
+.assitance-12 .conversation-frame {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 186.6px 7.2px 26px 9px;
+  box-sizing: border-box;
+}
+.assitance-12 .type-areply {
+  margin: 1px 10px 1px 0;
+  display: inline-block;
+  width: 99px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.35;
+  color: #737376;
+}
+.assitance-12 .chips-text {
+  margin-right: 20.4px;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.35;
+  color: #8F9195;
+}
+.assitance-12 .chips-text-1 {
+  margin-right: 18.4px;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.35;
+  color: #8F9195;
+}
+.assitance-12 .chips-text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.35;
+  color: #8F9195;
+}
+.assitance-12 .frame-31283 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-12 .reply {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 24.4px 20px 20.1px;
+  width: 423px;
+  box-sizing: border-box;
+}
+.assitance-12 .intercom-widget {
+  border-radius: 18px;
+  position: absolute;
+  right: 407px;
+  bottom: 9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 4.8px;
+  box-sizing: border-box;
+}
+.assitance-12 {
+  background: #FFFFFF;
+  padding: 280px 60px 364px 60px;
+  width: 1280px;
+  box-sizing: border-box;
+}

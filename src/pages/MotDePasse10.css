@@ -1,0 +1,182 @@
+.mot-de-passe-10 .vector {
+  transform: rotate(89.787deg);
+  margin-right: 345.7px;
+  width: 902.2px;
+  height: 389px;
+}
+.mot-de-passe-10 .heading-1-login {
+  margin: 0 58px 57.4px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 38px;
+  color: #0A3749;
+}
+.mot-de-passe-10 .phone-number-or-email {
+  margin: 4px 6.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0.2px;
+  line-height: 0.636;
+  color: #494949;
+}
+.mot-de-passe-10 .container {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 0.2px;
+  line-height: 1.077;
+  color: #ED3863;
+}
+.mot-de-passe-10 .label {
+  margin: 0 11.5px 44.1px 11.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .phone-number-or-email-1 {
+  position: absolute;
+  left: 0px;
+  bottom: -0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 500;
+  font-size: 18px;
+  color: #8D8D8D;
+}
+.mot-de-passe-10 .container {
+  position: relative;
+  width: 554.6px;
+  height: 22px;
+}
+.mot-de-passe-10 .input {
+  border-radius: 46px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 21px 15px 17px 15px;
+  width: 584.6px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .background-border {
+  border-radius: 46px;
+  border: 1px solid #DADADA;
+  background: #FFFFFF;
+  margin: 0 50.2px 34.9px 0;
+  display: flex;
+  padding: 2.5px 26px 2.5px 15px;
+  width: 627.6px;
+  height: 67px;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .acode-will-be-sent-to-your-phone-number-to-verify-that-you-are-the-owner-of-this-account {
+  margin: 0 0 66.1px 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 20px;
+  color: #19A38C;
+}
+.mot-de-passe-10 .send-the-verification-code {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.mot-de-passe-10 .button {
+  border-radius: 59px;
+  background: #09887B;
+  margin: 0 42px 14px 42px;
+  display: flex;
+  align-self: flex-start;
+  padding: 21.5px 0 21.5px 18px;
+  width: 510px;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .resend-acode {
+  margin-right: 133.4px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 20px;
+  color: #EE8C2B;
+}
+.mot-de-passe-10 .line-212 {
+  background: #EE8C2B;
+  margin-right: 98.8px;
+  align-self: center;
+  width: 163px;
+  height: 0px;
+}
+.mot-de-passe-10 .form {
+  margin: 0 8.2px 193.5px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .vector-1 {
+  width: 23.9px;
+  height: 25.8px;
+}
+.mot-de-passe-10 .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  display: flex;
+  padding: 5.5px 7.6px 5.7px 7.5px;
+  width: 39px;
+  height: 37px;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .container-1 {
+  margin: 151.1px 0 17px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1424px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 .unsplash-2-vd-8-lihdnw {
+  border-radius: 400px;
+  background: url('E:/Toury/toury/assets/images/Unsplash2Vd8Lihdnw.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 80px;
+  top: 236px;
+  width: 472px;
+  height: 418px;
+}
+.mot-de-passe-10 .background {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding-right: 19px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.mot-de-passe-10 {
+  background: url('E:/Toury/toury/assets/images/MotDePasse11.jpeg') 50% / cover no-repeat, linear-gradient(#F8F8FD, #F8F8FD), linear-gradient(#FFFFFF, #FFFFFF);
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,177 @@
+.desktop-3 .image-1 {
+  background: linear-gradient(82.18deg, rgba(0, 0, 0, 0.3) 39.2%, rgba(0, 0, 0, 0.3) 97.9%), url('E:/Toury/toury/assets/images/Rectangle801.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-3 .home {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 188, 0, 0.9);
+}
+.desktop-3 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  margin: 0 0.6px 0 1px;
+  width: 40px;
+  height: 2px;
+}
+.desktop-3 .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-3 .destinations {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .locations-picks {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .foreigner-tours {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .assistance {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .frame-1 {
+  background: linear-gradient(180deg, rgba(74, 96, 116, 0.8) 7.2%, rgba(33, 31, 31, 0.8) 75%);
+  position: relative;
+  margin-bottom: 157px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 0 38px 0;
+  width: 1401px;
+  box-sizing: border-box;
+}
+.desktop-3 .world-tours {
+  position: relative;
+  margin-bottom: 56px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Odor Mean Chey';
+  font-weight: 400;
+  font-size: 80px;
+  color: #FFFFFF;
+}
+.desktop-3 .see-more {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-3 .group-79 {
+  border-radius: 3px;
+  background: rgba(255, 188, 0, 0.9);
+  position: relative;
+  margin-left: 148.5px;
+  display: flex;
+  padding: 14px 1px 13px 0;
+  width: 137px;
+  box-sizing: border-box;
+}
+.desktop-3 .container-1 {
+  margin: 0 185.5px 287px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-81 {
+  opacity: 0.5;
+  filter: blur(0.5px);
+  border-radius: 15px;
+  background: rgba(14, 58, 75, 0.46);
+  margin: 164px 10px 0 0;
+  width: 298px;
+  height: 370px;
+}
+.desktop-3 .rectangle-801 {
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  background: url('E:/Toury/toury/assets/images/Image11.png') 50% / cover no-repeat;
+  margin: 144px 13px 34px 0;
+  width: 280px;
+  height: 356px;
+}
+.desktop-3 .rectangle-80 {
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  background: url('E:/Toury/toury/assets/images/Rectangle79.png') 50% / cover no-repeat;
+  margin: 144px 0 34px 0;
+  width: 280px;
+  height: 356px;
+}
+.desktop-3 .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .visit-the-most-beautiful-places-in-the-world-with-ease {
+  position: absolute;
+  left: 4px;
+  top: 130px;
+  overflow-wrap: break-word;
+  font-family: 'Maven Pro';
+  font-weight: 400;
+  font-size: 24px;
+  color: var(--primary-color, #EDEDF5);
+}
+.desktop-3 .rectangle-79 {
+  box-shadow: 1px 1px 2px 0px rgba(40, 141, 157, 0.39);
+  border-radius: 15px;
+  background: url('E:/Toury/toury/assets/images/Rectangle80.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 588px;
+  bottom: 8px;
+  width: 288px;
+  height: 356px;
+}
+.desktop-3 .container-2 {
+  position: relative;
+  margin-left: 48px;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-3 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 41px;
+  width: 1401px;
+  box-sizing: border-box;
+}

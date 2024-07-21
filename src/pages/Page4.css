@@ -1,0 +1,1337 @@
+.page-4 .mountains {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('E:/Toury/toury/assets/images/Mountains.jpeg'), linear-gradient(#D9D9D9, #D9D9D9);
+  position: absolute;
+  left: -10px;
+  top: -7px;
+  width: 1450px;
+  height: 965px;
+}
+.page-4 .home {
+  margin: 0 9.5px 3px 0;
+  display: inline-block;
+  width: 58px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.page-4 .destinations {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page-4 .locations-picks {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #F0B409;
+}
+.page-4 .container-11 {
+  margin-right: 4.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 368.4px;
+  box-sizing: border-box;
+}
+.page-4 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  width: 125px;
+  height: 2px;
+}
+.page-4 .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 373px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .foreigner-tours {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page-4 .assistance {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page-4 .frame-2 {
+  background: linear-gradient(180deg, rgba(95, 95, 80, 0.8) 49.5%, rgba(33, 31, 31, 0.8) 75%);
+  margin-bottom: 103.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  padding: 25px 0 38px 0;
+  width: 1466px;
+  box-sizing: border-box;
+}
+.page-4 .image-2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('E:/Toury/toury/assets/images/Image2.jpeg') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  transform: rotate(-10.952deg);
+  margin-bottom: 72.6px;
+  align-self: flex-start;
+  width: 443.7px;
+  height: 512.3px;
+}
+.page-4 .previous-next {
+  margin-right: 500.6px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25.8px;
+  color: #FFFFFF;
+}
+.page-4 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1996px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .image-3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('E:/Toury/toury/assets/images/Image3.jpeg') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  transform: rotate(173.424deg);
+  position: absolute;
+  left: -519.4px;
+  top: 195.5px;
+  width: 443.9px;
+  height: 512.6px;
+}
+.page-4 .main-image {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('E:/Toury/toury/assets/images/MainImage.jpeg'), linear-gradient(#D9D9D9, #D9D9D9);
+  transform: rotate(10.561deg);
+  position: absolute;
+  left: -646px;
+  top: 116.3px;
+  width: 534px;
+  height: 617px;
+}
+.page-4 .container-9 {
+  background: url('E:/Toury/toury/assets/images/Image24.png');
+  position: absolute;
+  left: 512px;
+  top: 0px;
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-23 {
+  background: url('E:/Toury/toury/assets/images/Image2.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-17 {
+  background: url('E:/Toury/toury/assets/images/Image27.png');
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-14 {
+  width: 4.6px;
+  height: 4.6px;
+}
+.page-4 .container-3 {
+  margin: 29.7px 14px 15.7px 0;
+  display: flex;
+  width: 44px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.page-4 .search-sygic-maps {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-14-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-14-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-14-font-size, 14px);
+  color: var(--maps-sygic-com-silver-chalice, #AAAAAA);
+}
+.page-4 .input {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  padding: 18px 0 16px 0;
+  box-sizing: border-box;
+}
+.page-4 .container-4 {
+  width: 316px;
+  box-sizing: border-box;
+}
+.page-4 .background-shadow {
+  box-shadow: 0px 0px 0px 1px #CCCCCC;
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding-left: 25.4px;
+  box-sizing: border-box;
+}
+.page-4 .container-2 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.page-4 .container-10 {
+  position: relative;
+  margin-right: 128px;
+  display: flex;
+  padding: 75px 0 131px 24px;
+  box-sizing: border-box;
+}
+.page-4 .container-7 {
+  background: url('E:/Toury/toury/assets/images/Image38.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-10 {
+  background: url('E:/Toury/toury/assets/images/Image16.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .image-4 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image7.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-5 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-18 {
+  background: url('E:/Toury/toury/assets/images/Image22.png');
+  display: flex;
+  padding: 178px 72px 34px 0;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-4 .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .container-21 {
+  background: url('E:/Toury/toury/assets/images/Image25.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-13 {
+  background: url('E:/Toury/toury/assets/images/Image20.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-3 {
+  background: url('E:/Toury/toury/assets/images/Image19.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .image-5 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image10.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-6 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  margin: 39px 25px 161px 0;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .image-background-border {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder28.png'), linear-gradient(#ACD174, #ACD174);
+  width: 22px;
+  height: 22px;
+}
+.page-4 .container-1 {
+  background: url('E:/Toury/toury/assets/images/Image14.png');
+  display: flex;
+  flex-direction: row;
+  padding: 39px 11px 12px 0;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-4 .container-4 {
+  background: url('E:/Toury/toury/assets/images/Image10.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-14 {
+  background: url('E:/Toury/toury/assets/images/Image29.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1536px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .image-1 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image4.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-2 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  right: 486px;
+  bottom: 34px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-9 {
+  position: relative;
+  display: flex;
+  width: 1536px;
+  box-sizing: border-box;
+}
+.page-4 .container-22 {
+  background: url('E:/Toury/toury/assets/images/Image13.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-15 {
+  background: url('E:/Toury/toury/assets/images/Image.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .image-8 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-9 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-5 {
+  background: url('E:/Toury/toury/assets/images/Image30.png');
+  display: flex;
+  padding: 38px 0 0 136px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-4 .image {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image5.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-1 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  margin: 0 0 8px 39px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .image-2 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image3.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-3 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  margin-right: 39px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-2 {
+  background: url('E:/Toury/toury/assets/images/Image18.png');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 0 144px 0;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-4 .container-6 {
+  background: url('E:/Toury/toury/assets/images/Image8.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-16 {
+  background: url('E:/Toury/toury/assets/images/Image9.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1536px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .image-3 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image9.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-4 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  top: 41px;
+  right: 479px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .image-7 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image13.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-8 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  left: 50%;
+  top: 100px;
+  translate: -50% 0;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-8 {
+  position: relative;
+  display: flex;
+  width: 1536px;
+  box-sizing: border-box;
+}
+.page-4 .container-24 {
+  background: url('E:/Toury/toury/assets/images/Image1.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-19 {
+  background: url('E:/Toury/toury/assets/images/Image36.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-11 {
+  background: url('E:/Toury/toury/assets/images/Image7.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-8 {
+  background: url('E:/Toury/toury/assets/images/Image32.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-12 {
+  background: url('E:/Toury/toury/assets/images/Image42.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-20 {
+  background: url('E:/Toury/toury/assets/images/Image4.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-12 {
+  display: flex;
+  flex-direction: row;
+  width: 1536px;
+  box-sizing: border-box;
+}
+.page-4 .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.page-4 .image-6 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image2.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-7 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  top: 481px;
+  right: 562px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-1 {
+  position: absolute;
+  left: -248px;
+  bottom: -123px;
+  display: flex;
+  height: 853px;
+  box-sizing: border-box;
+}
+.page-4 .vector-2 {
+  width: 16px;
+  height: 16px;
+}
+.page-4 .vector-2 {
+  width: 16px;
+  height: 16px;
+}
+.page-4 .link {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 6.7px 7px 7.3px 7px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.page-4 .container-25 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-22-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-22-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-22-font-size, 22px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-22-line-height, 1.364);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-4 .container-25 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-22-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-22-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-22-font-size, 22px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-22-line-height, 1.364);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-4 .button-zoom-in {
+  border-radius: 4px 4px 0 0;
+  border-bottom: 1px solid var(--maps-sygic-com-silver, #CCCCCC);
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 0 9px 0 10px;
+  box-sizing: border-box;
+}
+.page-4 .container-26 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-24-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-24-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-24-font-size, 24px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-24-line-height, 1.25);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-4 .container-26 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-24-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-24-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-24-font-size, 24px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-24-line-height, 1.25);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-4 .button-zoom-out {
+  border-radius: 0 0 4px 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 0 8.5px 0 9.5px;
+  box-sizing: border-box;
+}
+.page-4 .container-15 {
+  margin-bottom: 1.7px;
+  width: 16px;
+  height: 4.2px;
+}
+.page-4 .vector-5 {
+  opacity: 0.5;
+  width: 16px;
+  height: 4.5px;
+}
+.page-4 .container-15 {
+  margin-bottom: 1.7px;
+  width: 16px;
+  height: 4.2px;
+}
+.page-4 .vector-5 {
+  opacity: 0.5;
+  width: 16px;
+  height: 4.5px;
+}
+.page-4 .link-1 {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.5px 7px 10px 7px;
+  width: 30px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .container-15 {
+  margin-bottom: 1.7px;
+  width: 16px;
+  height: 4.2px;
+}
+.page-4 .vector-5 {
+  opacity: 0.5;
+  width: 16px;
+  height: 4.5px;
+}
+.page-4 .link-1 {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.5px 7px 10px 7px;
+  width: 30px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .map-switcher {
+  box-shadow: 0px 0px 0px 1px #CCCCCC;
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  margin: 0 10px 10px 10px;
+  display: flex;
+  width: 30px;
+  box-sizing: border-box;
+}
+.page-4 .km {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .km {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .border {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  margin-right: 4px;
+  display: flex;
+  padding: 0 19px;
+  box-sizing: border-box;
+}
+.page-4 .ft {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .ft {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .border-1 {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  display: flex;
+  padding-left: 0px;
+  width: 97px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .km {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .border {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  margin-right: 4px;
+  display: flex;
+  padding: 0 19px;
+  box-sizing: border-box;
+}
+.page-4 .ft {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .border-1 {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  display: flex;
+  padding-left: 0px;
+  width: 97px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .overlay {
+  background: var(--maps-sygic-com-nero-70, rgba(255, 255, 255, 0.7));
+  display: flex;
+  flex-direction: row;
+  padding: 4px 10px 2px 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .container-9 {
+  background: url('E:/Toury/toury/assets/images/Image24.png');
+  position: absolute;
+  left: 512px;
+  top: 0px;
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-23 {
+  background: url('E:/Toury/toury/assets/images/Image2.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-17 {
+  background: url('E:/Toury/toury/assets/images/Image27.png');
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-14 {
+  width: 4.6px;
+  height: 4.6px;
+}
+.page-4 .container-3 {
+  margin: 29.7px 14px 15.7px 0;
+  display: flex;
+  width: 44px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.page-4 .search-sygic-maps {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-14-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-14-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-14-font-size, 14px);
+  color: var(--maps-sygic-com-silver-chalice, #AAAAAA);
+}
+.page-4 .input {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  padding: 18px 0 16px 0;
+  box-sizing: border-box;
+}
+.page-4 .container-4 {
+  width: 316px;
+  box-sizing: border-box;
+}
+.page-4 .background-shadow {
+  box-shadow: 0px 0px 0px 1px #CCCCCC;
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding-left: 25.4px;
+  box-sizing: border-box;
+}
+.page-4 .container-2 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.page-4 .container-10 {
+  position: relative;
+  margin-right: 128px;
+  display: flex;
+  padding: 75px 0 131px 24px;
+  box-sizing: border-box;
+}
+.page-4 .container-7 {
+  background: url('E:/Toury/toury/assets/images/Image38.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-10 {
+  background: url('E:/Toury/toury/assets/images/Image16.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .image-4 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image7.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-5 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-18 {
+  background: url('E:/Toury/toury/assets/images/Image22.png');
+  display: flex;
+  padding: 178px 72px 34px 0;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-4 .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .container-21 {
+  background: url('E:/Toury/toury/assets/images/Image25.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-13 {
+  background: url('E:/Toury/toury/assets/images/Image20.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-3 {
+  background: url('E:/Toury/toury/assets/images/Image19.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .image-5 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image10.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-6 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  margin: 39px 25px 161px 0;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .image-background-border {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder28.png'), linear-gradient(#ACD174, #ACD174);
+  width: 22px;
+  height: 22px;
+}
+.page-4 .container-1 {
+  background: url('E:/Toury/toury/assets/images/Image14.png');
+  display: flex;
+  flex-direction: row;
+  padding: 39px 11px 12px 0;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-4 .container-4 {
+  background: url('E:/Toury/toury/assets/images/Image10.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-14 {
+  background: url('E:/Toury/toury/assets/images/Image29.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1536px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .image-1 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image4.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-2 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  right: 486px;
+  bottom: 34px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-9 {
+  position: relative;
+  display: flex;
+  width: 1536px;
+  box-sizing: border-box;
+}
+.page-4 .container-22 {
+  background: url('E:/Toury/toury/assets/images/Image13.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-15 {
+  background: url('E:/Toury/toury/assets/images/Image.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .image-8 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-9 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-5 {
+  background: url('E:/Toury/toury/assets/images/Image30.png');
+  display: flex;
+  padding: 38px 0 0 136px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-4 .image {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image5.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-1 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  margin: 0 0 8px 39px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .image-2 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image3.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-3 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  margin-right: 39px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-2 {
+  background: url('E:/Toury/toury/assets/images/Image18.png');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 0 144px 0;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-4 .container-6 {
+  background: url('E:/Toury/toury/assets/images/Image8.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-16 {
+  background: url('E:/Toury/toury/assets/images/Image9.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1536px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .image-3 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image9.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-4 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  top: 41px;
+  right: 479px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .image-7 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image13.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-8 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  left: 50%;
+  top: 100px;
+  translate: -50% 0;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-8 {
+  position: relative;
+  display: flex;
+  width: 1536px;
+  box-sizing: border-box;
+}
+.page-4 .container-24 {
+  background: url('E:/Toury/toury/assets/images/Image1.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-19 {
+  background: url('E:/Toury/toury/assets/images/Image36.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-11 {
+  background: url('E:/Toury/toury/assets/images/Image7.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-8 {
+  background: url('E:/Toury/toury/assets/images/Image32.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-12 {
+  background: url('E:/Toury/toury/assets/images/Image42.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-20 {
+  background: url('E:/Toury/toury/assets/images/Image4.png');
+  width: 256px;
+  height: 256px;
+}
+.page-4 .container-12 {
+  display: flex;
+  flex-direction: row;
+  width: 1536px;
+  box-sizing: border-box;
+}
+.page-4 .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.page-4 .image-6 {
+  border-radius: 20px;
+  background: url('E:/Toury/toury/assets/images/Image12.gif'), url('E:/Toury/toury/assets/images/Image2.jpeg') 26.67%, linear-gradient(#ACD174, #ACD174);
+  width: 40px;
+  height: 40px;
+}
+.page-4 .background-7 {
+  border-radius: 25px;
+  background: var(--maps-sygic-com-alabaster, #FAFAFA);
+  position: absolute;
+  top: 481px;
+  right: 562px;
+  display: flex;
+  padding: 2px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.page-4 .container-1 {
+  position: absolute;
+  left: -248px;
+  bottom: -123px;
+  display: flex;
+  height: 853px;
+  box-sizing: border-box;
+}
+.page-4 .vector-2 {
+  width: 16px;
+  height: 16px;
+}
+.page-4 .link {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 6.7px 7px 7.3px 7px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.page-4 .overlay-shadow {
+  border-radius: 4px;
+  margin: 0 10px 10px 10px;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.page-4 .container-25 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-22-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-22-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-22-font-size, 22px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-22-line-height, 1.364);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-4 .button-zoom-in {
+  border-radius: 4px 4px 0 0;
+  border-bottom: 1px solid var(--maps-sygic-com-silver, #CCCCCC);
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 0 9px 0 10px;
+  box-sizing: border-box;
+}
+.page-4 .container-26 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-24-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-24-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-24-font-size, 24px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-24-line-height, 1.25);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-4 .button-zoom-out {
+  border-radius: 0 0 4px 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 0 8.5px 0 9.5px;
+  box-sizing: border-box;
+}
+.page-4 .overlay-shadow-1 {
+  border-radius: 4px;
+  margin: 0 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .container-15 {
+  margin-bottom: 1.7px;
+  width: 16px;
+  height: 4.2px;
+}
+.page-4 .vector-5 {
+  opacity: 0.5;
+  width: 16px;
+  height: 4.5px;
+}
+.page-4 .link-1 {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.5px 7px 10px 7px;
+  width: 30px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .map-switcher {
+  box-shadow: 0px 0px 0px 1px #CCCCCC;
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  margin: 0 10px 10px 10px;
+  display: flex;
+  width: 30px;
+  box-sizing: border-box;
+}
+.page-4 .km {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .border {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  margin-right: 4px;
+  display: flex;
+  padding: 0 19px;
+  box-sizing: border-box;
+}
+.page-4 .ft {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-4 .border-1 {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  display: flex;
+  padding-left: 0px;
+  width: 97px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .overlay {
+  background: var(--maps-sygic-com-nero-70, rgba(255, 255, 255, 0.7));
+  display: flex;
+  flex-direction: row;
+  padding: 4px 10px 2px 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-4 .container-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.page-4 .background {
+  background: url('E:/Toury/toury/assets/images/Background.png') 100%, linear-gradient(#F4F4F4, #F4F4F4);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding-bottom: 2px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.page-4 .left-arrow {
+  position: relative;
+  margin-bottom: 145px;
+  width: 187.5px;
+  height: 125px;
+}
+.page-4 .location {
+  position: relative;
+  width: 100px;
+  height: 97px;
+}
+.page-4 .right-arrow {
+  position: relative;
+  margin-bottom: 145px;
+  width: 187.5px;
+  height: 125px;
+}
+.page-4 .container {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 62.5px 0 61px;
+  height: 853px;
+  box-sizing: border-box;
+}
+.container {
+  background: #4D3321;
+  display: flex;
+  padding-bottom: 77px;
+  width: 1440px;
+  box-sizing: border-box;
+}

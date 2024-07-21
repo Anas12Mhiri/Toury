@@ -1,0 +1,174 @@
+.page .right-arrow {
+  position: absolute;
+  top: 405px;
+  right: -222.5px;
+  width: 187.5px;
+  height: 125px;
+}
+.page .left-arrow {
+  position: absolute;
+  left: -223px;
+  top: 405px;
+  width: 187.5px;
+  height: 125px;
+}
+.page .image-2 {
+  background: url('E:/Toury/toury/assets/images/Image2.jpeg') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  position: relative;
+  width: 497.9px;
+  height: 574.9px;
+}
+.page .image-3 {
+  background: url('E:/Toury/toury/assets/images/Image3.jpeg') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  position: absolute;
+  right: 434px;
+  bottom: 194px;
+  width: 477px;
+  height: 552px;
+}
+.page .home {
+  margin: 0 9.5px 3px 0;
+  display: inline-block;
+  width: 58px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.page .destinations {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page .locations-picks {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #F0B409;
+}
+.page .container {
+  margin-right: 4.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 368.4px;
+  box-sizing: border-box;
+}
+.page .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  width: 125px;
+  height: 2px;
+}
+.page .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 373px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page .foreigner-tours {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page .assistance {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page .frame-1 {
+  background: linear-gradient(180deg, rgba(95, 95, 80, 0.8) 49.5%, rgba(33, 31, 31, 0.8) 75%);
+  margin-bottom: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 0 38px 0;
+  width: 1441px;
+  box-sizing: border-box;
+}
+.page .revelations {
+  position: absolute;
+  left: -67px;
+  bottom: -154px;
+  overflow-wrap: break-word;
+  font-family: 'Gopher', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 120px;
+  color: #FFFFFF;
+}
+.page .explorations {
+  position: absolute;
+  left: -67px;
+  bottom: -295px;
+  overflow-wrap: break-word;
+  font-family: 'Gopher', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 111.4px;
+  color: #FFFFFF;
+}
+.page .location-picks {
+  overflow-wrap: break-word;
+  font-family: 'Akshar';
+  font-weight: 400;
+  font-size: 100px;
+  color: #FFFFFF;
+}
+.page .heading {
+  position: relative;
+  margin: 0 0px 34px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.page .im-ready {
+  overflow-wrap: break-word;
+  font-family: 'Gopher', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 21px;
+  color: #000000;
+}
+.page .component-1 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  padding: 14px 15.5px 14px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.page .container-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('E:/Toury/toury/assets/images/MainImage.jpeg'), linear-gradient(#D9D9D9, #D9D9D9);
+  position: absolute;
+  left: -1px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1441px;
+  height: 961px;
+  box-sizing: border-box;
+}
+.container {
+  background: #4D3321;
+  display: flex;
+  padding: 216.5px 76.1px 169.6px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

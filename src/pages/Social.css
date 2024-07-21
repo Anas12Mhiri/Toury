@@ -1,0 +1,49 @@
+.social .vector {
+  width: 16px;
+  height: 16px;
+}
+.social .instagram {
+  margin: 0px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.social .vector-1 {
+  width: 16px;
+  height: 12.7px;
+}
+.social .medium {
+  margin: 1.7px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.social .vector-2 {
+  width: 16px;
+  height: 16px;
+}
+.social .dribbble {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.social .vector-3 {
+  width: 16px;
+  height: 10px;
+}
+.social .behance {
+  margin: 3px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

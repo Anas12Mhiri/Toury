@@ -1,0 +1,993 @@
+.assitance-10 .background {
+  background: url('E:/Toury/toury/assets/images/Background1.jpeg');
+  position: absolute;
+  top: 0px;
+  right: -90px;
+  width: 1460px;
+  height: 821px;
+}
+.assitance-10 .nepal-mountains {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Bebas Kai', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 65px;
+  color: var(--primary-color, #EDEDF5);
+}
+.assitance-10 .visit-the-most-beautiful-mountains-in-the-world {
+  position: absolute;
+  left: 60px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT Std', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--primary-color, #EDEDF5);
+}
+.assitance-10 .black {
+  background: #010101;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 350px;
+}
+.assitance-10 .mountain {
+  background: url('E:/Toury/toury/assets/images/Mountain.png');
+  position: absolute;
+  left: 0px;
+  top: -350px;
+  right: 0px;
+  height: 720px;
+}
+.assitance-10 .home {
+  margin: 0 9.5px 3px 0;
+  display: inline-block;
+  width: 58px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.assitance-10 .destinations {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.assitance-10 .locations-picks {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.assitance-10 .foreigner-tours {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.assitance-10 .assistance {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFBC00;
+}
+.assitance-10 .container {
+  margin-right: 5.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 690.9px;
+  box-sizing: border-box;
+}
+.assitance-10 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  margin-left: 605px;
+  width: 91px;
+  height: 2px;
+}
+.assitance-10 .frame-1 {
+  background: linear-gradient(180deg, rgba(74, 96, 116, 0.8) 7.2%, rgba(33, 31, 31, 0.8) 75%);
+  position: absolute;
+  top: 0px;
+  right: -100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 0 38px 0;
+  width: 1401px;
+  height: 87px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: absolute;
+  left: 41px;
+  top: 469px;
+  width: 39px;
+  height: 37px;
+}
+.assitance-10 .vector {
+  position: relative;
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-10 .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: absolute;
+  left: 41px;
+  top: 469px;
+  width: 39px;
+  height: 37px;
+}
+.assitance-10 .vector {
+  position: relative;
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-10 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  position: relative;
+  padding: 475px 49px 399.2px 49px;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: absolute;
+  left: 41px;
+  top: 469px;
+  width: 39px;
+  height: 37px;
+}
+.assitance-10 .vector {
+  position: relative;
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-10 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  position: relative;
+  padding: 475px 49px 399.2px 49px;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-2 {
+  background: var(--maps-roadtrippers-com-pampas, #F5F2F0);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-10 .item-roadtrippers {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .container {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .mapbox {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .container-1 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .open-street-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .container-2 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .improve-this-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .item-roadtrippers {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .container {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .mapbox {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .link {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-10 .item {
+  margin-right: 7.7px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-10 .container-1 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .open-street-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .link-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-10 .item-1 {
+  margin-right: 19.9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-10 .container-2 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .improve-this-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .link-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-10 .item-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-10 .overlay {
+  background: var(--maps-roadtrippers-com-nero-75, rgba(255, 255, 255, 0.75));
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 5.5px 25.2px 5.5px 5px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: absolute;
+  left: 41px;
+  top: 469px;
+  width: 39px;
+  height: 37px;
+}
+.assitance-10 .vector {
+  position: relative;
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-10 .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: absolute;
+  left: 41px;
+  top: 469px;
+  width: 39px;
+  height: 37px;
+}
+.assitance-10 .vector {
+  position: relative;
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-10 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  position: relative;
+  padding: 475px 49px 399.2px 49px;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: absolute;
+  left: 41px;
+  top: 469px;
+  width: 39px;
+  height: 37px;
+}
+.assitance-10 .vector {
+  position: relative;
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-10 .image {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  position: relative;
+  padding: 475px 49px 399.2px 49px;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-2 {
+  background: var(--maps-roadtrippers-com-pampas, #F5F2F0);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-10 .item-roadtrippers {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .container {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .mapbox {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .link {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-10 .item {
+  margin-right: 7.7px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-10 .container-1 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .open-street-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .link-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-10 .item-1 {
+  margin-right: 19.9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-10 .container-2 {
+  margin-right: 3.3px;
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .improve-this-map {
+  overflow-wrap: break-word;
+  font-family: var(--maps-roadtrippers-com-arial-narrow-10-font-family, 'Arial', 'Roboto Condensed');
+  font-weight: var(--maps-roadtrippers-com-arial-narrow-10-font-weight, 400);
+  font-size: var(--maps-roadtrippers-com-arial-narrow-10-font-size, 10px);
+  color: var(--maps-roadtrippers-com-black-75, rgba(0, 0, 0, 0.75));
+}
+.assitance-10 .link-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.assitance-10 .item-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-10 .overlay {
+  background: var(--maps-roadtrippers-com-nero-75, rgba(255, 255, 255, 0.75));
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 5.5px 25.2px 5.5px 5px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-1 {
+  background: var(--maps-roadtrippers-com-ecru-white, #F3F4E7);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.assitance-10 .vector-1 {
+  width: 14px;
+  height: 13.9px;
+}
+.assitance-10 .button {
+  border-radius: 4px;
+  margin: 0 0px 24.5px 0.1px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-10 .vector-2 {
+  width: 14.1px;
+  height: 3.3px;
+}
+.assitance-10 .button-1 {
+  border-radius: 0 0 4px 4px;
+  display: flex;
+  width: 32px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.assitance-10 .background-shadow-1 {
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+  background: var(--maps-roadtrippers-com-nero, #FFFFFF);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.1px 9px 14.3px 8.9px;
+  width: 32px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .zoom-3 {
+  background: var(--maps-roadtrippers-com-nero, #FFFFFF);
+  position: absolute;
+  right: -160.4px;
+  bottom: -275.1px;
+  padding: 0 45.6px;
+  width: 1440px;
+  height: 900px;
+  box-sizing: border-box;
+}
+.assitance-10 .container-3 {
+  margin: 11px 30.6px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Sharp', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  color: #F8F8F8;
+}
+.assitance-10 .bothrs {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--headertitle-font-family, 'Inter');
+  font-weight: var(--headertitle-font-weight, 600);
+  font-size: var(--headertitle-font-size, 18px);
+  line-height: var(--headertitle-line-height, 1);
+  color: #F8F8F8;
+}
+.assitance-10 .container-4 {
+  margin: 2px 9.6px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1;
+  color: #F8F8F8;
+}
+.assitance-10 .afew-minutes {
+  overflow-wrap: break-word;
+  font-family: var(--headersubtitle-font-family, 'Inter');
+  font-weight: var(--headersubtitle-font-weight, 400);
+  font-size: var(--headersubtitle-font-size, 14px);
+  line-height: var(--headersubtitle-line-height, 1.286);
+  color: #F8F8F8;
+}
+.assitance-10 .frame-31286 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .widget-header {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.assitance-10 .header {
+  background: #458981;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 0 20px 20.6px;
+  width: 423px;
+  box-sizing: border-box;
+}
+.assitance-10 .line {
+  background: #EBEBEB;
+  width: 423px;
+  height: 1.2px;
+}
+.assitance-10 .help {
+  overflow-wrap: break-word;
+  font-family: var(--chatcustomer-body-font-family, 'Inter');
+  font-weight: var(--chatcustomer-body-font-weight, 400);
+  font-size: var(--chatcustomer-body-font-size, 15px);
+  line-height: var(--chatcustomer-body-line-height, 1.4);
+  color: #FFFFFF;
+}
+.assitance-10 .frame-353 {
+  border-radius: 6px;
+  background: #3047EC;
+  margin-bottom: 4px;
+  align-self: flex-end;
+  padding: 7px 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .just-now-seen {
+  margin: 0 12.2px 346.4px 12.2px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: var(--chatmessage-stamp-font-family, 'Inter');
+  font-weight: var(--chatmessage-stamp-font-weight, 400);
+  font-size: var(--chatmessage-stamp-font-size, 13px);
+  line-height: var(--chatmessage-stamp-line-height, 1.2);
+  color: #737376;
+}
+.assitance-10 .vector-3 {
+  width: 23.9px;
+  height: 25.8px;
+}
+.assitance-10 .assistant {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: relative;
+  display: flex;
+  padding: 6px 7.1px 5.2px 8px;
+  width: 39px;
+  height: 37px;
+  box-sizing: border-box;
+}
+.assitance-10 .whats-your-emergency {
+  margin: 0 1.6px 10px 1.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #313A51;
+}
+.assitance-10 .vector-4 {
+  width: 15.6px;
+  height: 14.9px;
+}
+.assitance-10 .frame-483311 {
+  border-radius: 50.2px;
+  background: #DBE790;
+  margin: 0 7.2px 0px 0;
+  display: flex;
+  padding: 9px 8.1px 8.1px 8.4px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-10 .medical {
+  margin-top: 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 2.667;
+  color: #313A51;
+}
+.assitance-10 .frame-483292 {
+  border-radius: 103.2px;
+  border: 1px solid #EFEFEF;
+  background: #FFFFFF;
+  margin: 0 1.4px 9.5px 1.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 5.1px 16.3px 5.4px 5.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .group-483521 {
+  width: 13.7px;
+  height: 15px;
+}
+.assitance-10 .frame-4833111 {
+  border-radius: 50.2px;
+  background: #F5A6DF;
+  margin: 0 9.2px 0px 0;
+  display: flex;
+  padding: 8px 9px 9px 9.4px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-10 .violence {
+  margin-top: 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 2.667;
+  color: #313A51;
+}
+.assitance-10 .frame-483298 {
+  border-radius: 103.2px;
+  border: 1px solid #EFEFEF;
+  background: #FFFFFF;
+  margin: 0 1.1px 9.4px 1.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 5.1px 0 5.4px 5.7px;
+  width: 120px;
+  box-sizing: border-box;
+}
+.assitance-10 .group {
+  width: 16.9px;
+  height: 15.5px;
+}
+.assitance-10 .frame-4833112 {
+  border-radius: 50.2px;
+  background: #F5E8A6;
+  margin: 0 7.5px 0.4px 0;
+  display: flex;
+  padding: 8.4px 7.5px 8.1px 7.7px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-10 .rescue {
+  margin-top: 0.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 2.667;
+  color: #313A51;
+}
+.assitance-10 .frame-483293 {
+  border-radius: 103.2px;
+  border: 1px solid #EFEFEF;
+  background: #FFFFFF;
+  margin: 0 0.8px 9.5px 0.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 4.7px 15.1px 5.3px 5.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .vector-14 {
+  width: 12.4px;
+  height: 15px;
+}
+.assitance-10 .frame-4833113 {
+  border-radius: 50.2px;
+  background: #F5A6A6;
+  margin: 0 8.2px 0px 0;
+  display: flex;
+  padding: 8px 10.2px 9.1px 9.4px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-10 .fire {
+  margin-top: 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 2.667;
+  color: #313A51;
+}
+.assitance-10 .frame-483299 {
+  border-radius: 103.2px;
+  border: 1px solid #EFEFEF;
+  background: #FFFFFF;
+  margin: 0 0.5px 9.6px 0.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 5.1px 14.4px 5.2px 5.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .vector-15 {
+  width: 13.5px;
+  height: 15px;
+}
+.assitance-10 .frame-4833114 {
+  border-radius: 50.2px;
+  background: #A6F5D4;
+  margin: 0 9.2px 0px 0;
+  display: flex;
+  padding: 8px 9.1px 9px 9.4px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-10 .natural-disaster {
+  margin-top: 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 2.667;
+  color: #313A51;
+}
+.assitance-10 .frame-483296 {
+  border-radius: 103.2px;
+  border: 1px solid #EFEFEF;
+  background: #FFFFFF;
+  margin: 0 0.3px 9.2px 0.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 5.1px 16.1px 5.6px 5.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .group-483520 {
+  width: 20px;
+  height: 12px;
+}
+.assitance-10 .frame-4833115 {
+  border-radius: 50.2px;
+  background: #D4CEFA;
+  margin: 0 8.2px 0px 0;
+  display: flex;
+  padding: 10px 5.7px 10px 6.4px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.assitance-10 .accident {
+  margin-top: 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 2.667;
+  color: #313A51;
+}
+.assitance-10 .frame-483297 {
+  border-radius: 103.2px;
+  border: 1px solid #EFEFEF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 5.1px 0 5.4px 5.7px;
+  width: 120px;
+  box-sizing: border-box;
+}
+.assitance-10 .frame-31279 {
+  border-radius: 10px;
+  background: #F2F2F2;
+  display: flex;
+  flex-direction: column;
+  padding: 16.1px 0 10.6px 18px;
+  box-sizing: border-box;
+}
+.assitance-10 .message {
+  position: absolute;
+  top: -340.5px;
+  right: -311.7px;
+  height: 377.8px;
+  box-sizing: border-box;
+}
+.assitance-10 .frame-31289 {
+  position: relative;
+  display: flex;
+  width: 321.3px;
+  height: 348.9px;
+  box-sizing: border-box;
+}
+.assitance-10 .conversationmove-me {
+  margin: 0 15px 17.6px 15px;
+  display: flex;
+  align-self: flex-start;
+  width: 383px;
+  height: 400px;
+  box-sizing: border-box;
+}
+.assitance-10 .travelo-just-now {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--chatmessage-stamp-font-family, 'Inter');
+  font-weight: var(--chatmessage-stamp-font-weight, 400);
+  font-size: var(--chatmessage-stamp-font-size, 13px);
+  line-height: var(--chatmessage-stamp-line-height, 1.2);
+  color: #737376;
+}
+.assitance-10 .conversation-frame {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 16.8px 4px 11px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.assitance-10 .type-areply {
+  margin: 1px 10px 1px 0;
+  display: inline-block;
+  width: 99px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.35;
+  color: #737376;
+}
+.assitance-10 .chips-text {
+  margin-right: 20.4px;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.35;
+  color: #8F9195;
+}
+.assitance-10 .chips-text-1 {
+  margin-right: 18.4px;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.35;
+  color: #8F9195;
+}
+.assitance-10 .chips-text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 6 Pro', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.35;
+  color: #8F9195;
+}
+.assitance-10 .frame-31283 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.assitance-10 .reply {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 24.4px 20px 20.1px;
+  width: 423px;
+  box-sizing: border-box;
+}
+.assitance-10 .intercom-widget {
+  border-radius: 18px;
+  position: absolute;
+  right: 407px;
+  bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.assitance-10 {
+  background: #FFFFFF;
+  padding: 280px 60px 364px 60px;
+  width: 1280px;
+  box-sizing: border-box;
+}

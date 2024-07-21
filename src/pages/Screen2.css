@@ -1,0 +1,147 @@
+.screen-2 .background {
+  background: url('E:/Toury/toury/assets/images/Background1.jpeg');
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.screen-2 .black {
+  background: #010101;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100px;
+}
+.screen-2 .welcome-to-toury {
+  margin-bottom: 235px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 65px;
+  color: var(--primary-color, #EDEDF5);
+}
+.screen-2 .scroll {
+  margin: 0 3px 6px 3px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT Std', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: -0.7px;
+  color: var(--primary-color, #EDEDF5);
+}
+.screen-2 .vector {
+  width: 16.8px;
+  height: 24px;
+}
+.screen-2 .mouse {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.screen-2 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.screen-2 .visit-the-most-beautiful-places-in-the-world-with-ease {
+  position: absolute;
+  left: 60px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Maven Pro';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--primary-color, #EDEDF5);
+}
+.screen-2 .container {
+  background: url('E:/Toury/toury/assets/images/Mountain.png');
+  position: relative;
+  padding: 280px 60px 63px 60px;
+  box-sizing: border-box;
+}
+.screen-2 .home {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 188, 0, 0.9);
+}
+.screen-2 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  margin: 0 0.6px 0 1px;
+  width: 40px;
+  height: 2px;
+}
+.screen-2 .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.screen-2 .destinations {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-2 .locations-picks {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-2 .foreigner-tours {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-2 .assistance {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-2 .frame-1 {
+  background: linear-gradient(180deg, rgba(74, 96, 116, 0.8) 7.2%, rgba(33, 31, 31, 0.8) 75%);
+  position: absolute;
+  top: 0px;
+  right: -121px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 0 38px 0;
+  width: 1401px;
+  height: 87px;
+  box-sizing: border-box;
+}
+.screen-2 {
+  background: #FFFFFF;
+  width: 1280px;
+  box-sizing: border-box;
+}

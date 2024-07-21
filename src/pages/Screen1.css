@@ -1,0 +1,29 @@
+.screen-1 .background {
+  background: url('E:/Toury/toury/assets/images/Background1.jpeg');
+  position: absolute;
+  top: 0px;
+  right: -302px;
+  width: 1884px;
+  height: 1060px;
+}
+.screen-1 .black {
+  background: #010101;
+  position: relative;
+  width: 1280px;
+  height: 100px;
+}
+.screen-1 .mountain {
+  background: url('E:/Toury/toury/assets/images/Mountain.png');
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -104px;
+  height: 720px;
+}
+.screen-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 620px;
+  width: 1280px;
+  box-sizing: border-box;
+}

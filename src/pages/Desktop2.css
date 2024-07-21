@@ -1,0 +1,195 @@
+.desktop-2 .image-1 {
+  background: linear-gradient(87.4deg, rgba(0, 0, 0, 0.3) 36.83%, rgba(0, 0, 0, 0.3) 84.1%), url('E:/Toury/toury/assets/images/Rectangle79.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-2 .home {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 188, 0, 0.9);
+}
+.desktop-2 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  margin: 0 0.6px 0 1px;
+  width: 40px;
+  height: 2px;
+}
+.desktop-2 .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-2 .destinations {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .locations-picks {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .foreigner-tours {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .assistance {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .frame-1 {
+  background: linear-gradient(180deg, rgba(74, 96, 116, 0.8) 7.2%, rgba(33, 31, 31, 0.8) 75%);
+  margin: 0 148px 157px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 0 38px 0;
+  width: 1401px;
+  box-sizing: border-box;
+}
+.desktop-2 .world-tours {
+  position: relative;
+  margin-bottom: 56px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Odor Mean Chey';
+  font-weight: 400;
+  font-size: 80px;
+  color: #FFFFFF;
+}
+.desktop-2 .see-more {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-2 .see-more-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 13px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-2 .group-78 {
+  border-radius: 3px;
+  background: rgba(255, 188, 0, 0.9);
+  position: relative;
+  margin-left: 148.5px;
+  display: flex;
+  padding: 14px 1px 13px 0;
+  width: 137px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-3 {
+  margin: 0 190.5px 279px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-2 .rectangle-79 {
+  box-shadow: 1px 1px 2px 0px rgba(40, 141, 157, 0.39);
+  border-radius: 15px;
+  background: url('E:/Toury/toury/assets/images/Rectangle801.png') 50% / cover no-repeat;
+  margin: 170px 15px 0 0;
+  width: 288px;
+  height: 356px;
+}
+.desktop-2 .rectangle-801 {
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  background: url('E:/Toury/toury/assets/images/Rectangle80.png') 50% / cover no-repeat;
+  margin: 144px 13px 26px 0;
+  width: 280px;
+  height: 356px;
+}
+.desktop-2 .rectangle-80 {
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  background: url('E:/Toury/toury/assets/images/Image11.png') 50% / cover no-repeat;
+  margin: 144px 0 26px 0;
+  width: 280px;
+  height: 356px;
+}
+.desktop-2 .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-2 .visit-the-most-beautiful-places-in-the-world-with-ease {
+  position: absolute;
+  left: 4px;
+  top: 130px;
+  overflow-wrap: break-word;
+  font-family: 'Maven Pro';
+  font-weight: 400;
+  font-size: 24px;
+  color: var(--primary-color, #EDEDF5);
+}
+.desktop-2 .container {
+  position: relative;
+  margin-left: 48px;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-2 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1549px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .rectangle-81 {
+  opacity: 0.5;
+  filter: blur(0.5px);
+  border-radius: 15px;
+  background: rgba(57, 144, 157, 0.47);
+  position: absolute;
+  right: 435px;
+  bottom: 42px;
+  width: 298px;
+  height: 370px;
+}
+.desktop-2 {
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 49px;
+  width: 1401px;
+  box-sizing: border-box;
+}

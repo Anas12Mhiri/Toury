@@ -1,0 +1,347 @@
+.login .vector {
+  transform: rotate(89.787deg);
+  margin-right: 335.7px;
+  width: 902.2px;
+  height: 389px;
+}
+.login .heading-1-login {
+  margin: 0 0 56.9px 67.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.2px;
+  line-height: 1.861;
+  color: #000000;
+}
+.login .phone-number-or-email {
+  margin: 4px 6.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0.2px;
+  line-height: 0.636;
+  color: #494949;
+}
+.login .container {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 0.2px;
+  line-height: 1.077;
+  color: #ED3863;
+}
+.login .label {
+  margin: 0 11.5px 17.2px 11.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .phone-number-or-email-1 {
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 500;
+  font-size: 18px;
+  color: #8D8D8D;
+}
+.login .input {
+  border-radius: 46px;
+  background: #FFFFFF;
+  padding: 21.4px 15px 16.6px 15px;
+  box-sizing: border-box;
+}
+.login .background-border {
+  border-radius: 46px;
+  border: 1px solid #DADADA;
+  background: #FFFFFF;
+  margin-bottom: 64.8px;
+  padding: 2.5px 26px 2.5px 15px;
+  box-sizing: border-box;
+}
+.login .password {
+  margin: 4px 11.9px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0.2px;
+  line-height: 0.636;
+  color: #494949;
+}
+.login .container-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 0.2px;
+  line-height: 1.077;
+  color: #ED3863;
+}
+.login .label-1 {
+  margin: 0 18.9px 11.2px 18.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .write-your-password {
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 500;
+  font-size: 18px;
+  color: #8D8D8D;
+}
+.login .input-1 {
+  border-radius: 46px;
+  background: #FFFFFF;
+  margin-right: 0.8px;
+  padding: 21.4px 15px 16.6px 15px;
+  width: 564.6px;
+  box-sizing: border-box;
+}
+.login .vector-2 {
+  width: 18.3px;
+  height: 16px;
+}
+.login .svg {
+  margin: 22px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.login .background-border-1 {
+  border-radius: 46px;
+  border: 1px solid #DADADA;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 2.5px 26.8px 2.5px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .forgot-your-password {
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 500;
+  font-size: 19px;
+  letter-spacing: 0.2px;
+  line-height: 0.895;
+  color: #09887B;
+}
+.login .link {
+  border-bottom: 1px solid #09887B;
+  margin: 0 5px 28.9px 5px;
+  display: flex;
+  align-self: flex-start;
+  padding: 24px 0.2px 0 0;
+  box-sizing: border-box;
+}
+.login .container {
+  margin: 0 5.6px 3.1px 0;
+  width: 4.4px;
+  height: 8.9px;
+}
+.login .intersect-2 {
+  margin-top: 2.6px;
+  width: 9.5px;
+  height: 9.3px;
+}
+.login .masked-icon {
+  margin: 7.6px 10.5px 4.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 18px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login .button {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  line-height: 1.5;
+  color: #000000;
+}
+.login .button-google {
+  border-radius: 8px;
+  border: 1px solid rgba(30, 36, 50, 0.23);
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0 8px 17px;
+  width: 219px;
+  box-sizing: border-box;
+}
+.login .icon {
+  width: 20px;
+  height: 20px;
+}
+.login .masked-icon-1 {
+  margin: 2px 10px 0 0;
+  display: flex;
+  width: 18px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.login .button-1 {
+  margin-bottom: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  line-height: 1.5;
+  color: #000000;
+}
+.button-1-sub21 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  line-height: 1.333;
+  color: #000000;
+}
+.button-1 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  line-height: 1.333;
+  color: #000000;
+}
+.login .button-facebook {
+  border-radius: 8px;
+  border: 1px solid rgba(30, 36, 50, 0.23);
+  display: flex;
+  flex-direction: row;
+  padding: 7px 11.7px 11px 17px;
+  box-sizing: border-box;
+}
+.login .container-3 {
+  margin: 0 36.6px 0 61px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 530px;
+  box-sizing: border-box;
+}
+.login .form {
+  margin: 0 19px 37px 10px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  line-height: 1.2;
+  color: #FFFFFF;
+}
+.login .button-2 {
+  border-radius: 59px;
+  background: #09887B;
+  margin-bottom: 22px;
+  display: flex;
+  padding: 22.9px 0.6px 23.1px 0;
+  width: 656.6px;
+  box-sizing: border-box;
+}
+.login .dont-have-an-account {
+  margin-right: 20px;
+  width: 258px;
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 400;
+  font-size: 20.8px;
+  letter-spacing: 0.2px;
+  line-height: 1.923;
+  color: rgba(0, 0, 0, 0.87);
+}
+.login .create-anew-account {
+  overflow-wrap: break-word;
+  font-family: 'Tajawal';
+  font-weight: 400;
+  font-size: 20.8px;
+  letter-spacing: 0.2px;
+  line-height: 1.923;
+  color: #09887B;
+}
+.login .container-1 {
+  margin-left: 9.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 508.3px;
+  box-sizing: border-box;
+}
+.login .container-2 {
+  margin: 146.6px 0.4px 88px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 656.6px;
+  box-sizing: border-box;
+}
+.login .vector-1 {
+  width: 23.9px;
+  height: 25.8px;
+}
+.login .background-shadow {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  margin: 849.6px 0 17px 0;
+  display: flex;
+  padding: 5.5px 7.6px 5.7px 7.5px;
+  width: 39px;
+  height: 37px;
+  box-sizing: border-box;
+}
+.login .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1424px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login .unsplash-2-vd-8-lihdnw {
+  border-radius: 400px;
+  background: url('E:/Toury/toury/assets/images/Unsplash2Vd8Lihdnw.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 80px;
+  top: 236px;
+  width: 472px;
+  height: 418px;
+}
+.login .background {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding-right: 19px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.login {
+  background: url('E:/Toury/toury/assets/images/MotDePasse11.jpeg') 50% / cover no-repeat, linear-gradient(#F8F8FD, #F8F8FD), linear-gradient(#FFFFFF, #FFFFFF);
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

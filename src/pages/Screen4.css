@@ -1,0 +1,166 @@
+.screen-4 .background {
+  background: url('E:/Toury/toury/assets/images/Background1.jpeg');
+  position: absolute;
+  top: 0px;
+  right: -90px;
+  width: 1460px;
+  height: 821px;
+}
+.screen-4 .nepal-mountains {
+  margin: 0 60px 14px 60px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Bebas Kai', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 65px;
+  color: var(--primary-color, #EDEDF5);
+}
+.screen-4 .black {
+  background: #010101;
+  width: 1280px;
+  height: 350px;
+}
+.screen-4 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.screen-4 .visit-the-most-beautiful-mountains-in-the-world {
+  position: absolute;
+  left: 60px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT Std', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--primary-color, #EDEDF5);
+}
+.screen-4 .toury {
+  overflow-wrap: break-word;
+  font-family: 'Abril Fatface';
+  font-weight: 400;
+  font-size: 100px;
+  color: var(--primary-color, #EDEDF5);
+}
+.screen-4 .discover-us {
+  margin-right: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Anek Telugu';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--primary-color, #EDEDF5);
+}
+.screen-4 .container-1 {
+  background: url('E:/Toury/toury/assets/images/Mountain.png');
+  position: absolute;
+  left: 0px;
+  top: -350px;
+  right: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 720px;
+}
+.screen-4 .vector {
+  width: 60px;
+  height: 60px;
+}
+.screen-4 .play {
+  display: flex;
+  width: 80px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.screen-4 .video {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.5);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.35)), url('E:/Toury/toury/assets/images/Player1.jpeg');
+  position: absolute;
+  left: 50%;
+  bottom: 100px;
+  translate: -50% 0;
+  display: flex;
+  padding: 113px 0;
+  width: 700px;
+  height: 286px;
+  box-sizing: border-box;
+}
+.screen-4 .home {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 188, 0, 0.9);
+}
+.screen-4 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  margin: 0 0.6px 0 1px;
+  width: 40px;
+  height: 2px;
+}
+.screen-4 .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.screen-4 .destinations {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-4 .locations-picks {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-4 .foreigner-tours {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-4 .assistance {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.screen-4 .frame-1 {
+  background: linear-gradient(180deg, rgba(74, 96, 116, 0.8) 7.2%, rgba(33, 31, 31, 0.8) 75%);
+  position: absolute;
+  top: 0px;
+  right: -61px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 0 38px 0;
+  width: 1401px;
+  height: 87px;
+  box-sizing: border-box;
+}
+.screen-4 {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 280px;
+  width: 1280px;
+  box-sizing: border-box;
+}

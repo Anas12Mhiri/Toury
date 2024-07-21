@@ -1,0 +1,1532 @@
+.page-2 .home {
+  margin: 0 9.5px 3px 0;
+  display: inline-block;
+  width: 58px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.page-2 .destinations {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page-2 .locations-picks {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #F0B409;
+}
+.page-2 .container-42 {
+  margin-right: 4.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 368.4px;
+  box-sizing: border-box;
+}
+.page-2 .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  width: 125px;
+  height: 2px;
+}
+.page-2 .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 373px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .foreigner-tours {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page-2 .assistance {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.page-2 .frame-2 {
+  background: linear-gradient(180deg, rgba(95, 95, 80, 0.8) 49.5%, rgba(33, 31, 31, 0.8) 75%);
+  margin-bottom: 125.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 25px 0 38px 0;
+  width: 1485px;
+  box-sizing: border-box;
+}
+.page-2 .mountains {
+  background: url('E:/Toury/toury/assets/images/Mountains.jpeg') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  transform: rotate(-8.957deg);
+  margin-bottom: 103.3px;
+  align-self: flex-end;
+  width: 622px;
+  height: 443px;
+}
+.page-2 .previous-next {
+  margin: 0 139px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25.8px;
+  color: #FFFFFF;
+}
+.page-2 .container-24 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 2158.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-67 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  position: absolute;
+  left: -20px;
+  bottom: 64px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-20 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder34.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 86px 0 130px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .vector {
+  width: 16px;
+  height: 16px;
+}
+.page-2 .link {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 6.7px 7px 7.3px 7px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.page-2 .overlay-shadow {
+  border-radius: 4px;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.page-2 .container-16 {
+  background: url('E:/Toury/toury/assets/images/Image3.png');
+  position: absolute;
+  right: 0px;
+  bottom: 256px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 13px 18px 0;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-40 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 36px 53px 49px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-39 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder33.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-right: 18px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-38 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 60px 0 25px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-17 {
+  background: url('E:/Toury/toury/assets/images/Image40.png');
+  display: flex;
+  flex-direction: row;
+  padding-top: 36px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-35 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 47px 13px 184px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-32 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder20.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin: 171px 31px 60px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-33 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 129px 13px 102px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-34 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 77px 7px 154px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .background-border-1 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-spindle, #B2C3E4);
+  margin: 94px 6px 151px 0;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-5 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder12.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin: 116px 2px 115px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-19 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder25.png'), linear-gradient(#F79D77, #F79D77);
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-9 {
+  background: url('E:/Toury/toury/assets/images/Image26.png');
+  display: flex;
+  flex-direction: row;
+  padding: 47px 24px 3px 20px;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-31 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-bottom: 38px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-29 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder7.png'), linear-gradient(#F79D77, #F79D77);
+  margin-top: 20px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-27 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-bottom: 20px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-16 {
+  margin-top: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 88px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .container-38 {
+  margin: 0 3px 26px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 176px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-68 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 41px 33px 2px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-28 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 0 53px 43px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-30 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 43px 25px 0 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder23.png'), linear-gradient(#F79D77, #F79D77);
+  margin: 21px 0 22px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-22 {
+  margin-bottom: 42px;
+  display: flex;
+  flex-direction: row;
+  width: 199px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-26 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder4.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  margin-left: 41px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-7 {
+  background: url('E:/Toury/toury/assets/images/Image23.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 11px;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-23 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 0 8px 8px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-72 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-top: 8px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-10 {
+  background: url('E:/Toury/toury/assets/images/Image39.png');
+  display: flex;
+  flex-direction: row;
+  padding-top: 17px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-18 {
+  background: url('E:/Toury/toury/assets/images/Image28.png');
+  width: 256px;
+  height: 256px;
+}
+.page-2 .container-35 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1280px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .background-border {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-sandy-brown, #F79D77);
+  position: absolute;
+  left: 509px;
+  bottom: 19px;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-24 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder23.png'), linear-gradient(#F79D77, #F79D77);
+  position: absolute;
+  top: 69px;
+  right: 506px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-36 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder4.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  position: absolute;
+  left: 241px;
+  bottom: 88px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-12 {
+  position: relative;
+  display: flex;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-61 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder24.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 0 93px 8px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-60 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder1.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  margin: 0 0 119px 91px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-59 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder30.png'), linear-gradient(#AA76F7, #AA76F7);
+  margin-left: 93px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-13 {
+  background: url('E:/Toury/toury/assets/images/Image15.png');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 19px 0 44px 0;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-56 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 2px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-54 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder22.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 4px 23px 0 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-52 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder22.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-bottom: 4px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-23 {
+  display: flex;
+  flex-direction: row;
+  width: 67px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-51 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder23.png'), linear-gradient(#F79D77, #F79D77);
+  margin: 3px 0 1px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-21 {
+  margin-bottom: 33px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 179px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-55 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder27.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 40px 37px 31px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .background-border-5 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-pigeon-post, #A9B8D4);
+  margin: 50px 2px 35px 0;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-53 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder20.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin: 25px 18px 46px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-10 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder29.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin: 51px 3px 20px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-50 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder20.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin-bottom: 43px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .background-border-6 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-sandy-brown, #F79D77);
+  margin: 0 8px 0 6px;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .container-40 {
+  margin: 0 21px 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 22px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-49 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder2.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 0 0 37px 11px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-58 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-right: 11px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-8 {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 33px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .container-13 {
+  margin: 0 0 2px 4px;
+  display: flex;
+  flex-direction: row;
+  width: 210px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-48 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder13.png'), linear-gradient(#EA77AA, #EA77AA);
+  margin: 0 160px 19px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-4 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder16.png'), linear-gradient(#74BB82, #74BB82);
+  margin-bottom: 1px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-57 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-top: 1px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-9 {
+  margin-right: 19px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 183px;
+  box-sizing: border-box;
+}
+.page-2 .container-3 {
+  background: url('E:/Toury/toury/assets/images/Image43.png');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 22px 21px 16px 21px;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .background-border-7 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-fuel-yellow, #EAAE1E);
+  margin: 15px 3px 11px 0;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .background-border-4 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-spindle, #B2C3E4);
+  margin: 3px 6px 23px 0;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-44 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder17.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  margin: 12px 14px 0 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-6 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder31.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  margin-bottom: 12px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: 83px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-46 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder30.png'), linear-gradient(#AA76F7, #AA76F7);
+  margin: 7px 0 5px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-14 {
+  margin: 0 0 21px 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 157px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-47 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder24.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  width: 22px;
+  height: 22px;
+}
+.page-2 .background-border-9 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-spindle, #B2C3E4);
+  margin: 8px 0 6px 0;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .container-34 {
+  margin: 0 13px 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 131px;
+  box-sizing: border-box;
+}
+.page-2 .background-border-3 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-froly, #F78077);
+  margin: 46px 44px 1px 0;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-9 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder36.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  margin: 13px 38px 20px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-18 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder26.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin: 33px 4px 0 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-45 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder30.png'), linear-gradient(#AA76F7, #AA76F7);
+  margin-bottom: 33px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-32 {
+  margin: 0 4px 11px 0;
+  display: flex;
+  flex-direction: row;
+  width: 160px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-43 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 20px 23px 0 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-1 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder24.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-bottom: 20px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-19 {
+  margin-right: 25px;
+  display: flex;
+  flex-direction: row;
+  width: 67px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-42 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 0 11px 28px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-21 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder26.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin-top: 28px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: 55px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-8 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder18.png'), linear-gradient(#F79D77, #F79D77);
+  margin: 9px 0 19px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-37 {
+  margin-right: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 138px;
+  box-sizing: border-box;
+}
+.page-2 .container-1 {
+  background: url('E:/Toury/toury/assets/images/Image21.png');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px 0 12px 0;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-41 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder30.png'), linear-gradient(#AA76F7, #AA76F7);
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-4 {
+  background: url('E:/Toury/toury/assets/images/Image35.png');
+  display: flex;
+  padding: 102px 0 132px 92px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-14 {
+  background: url('E:/Toury/toury/assets/images/Image17.png');
+  width: 256px;
+  height: 256px;
+}
+.page-2 .container-26 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1280px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-7 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder10.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  position: absolute;
+  right: 501px;
+  bottom: 16px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-13 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder8.png'), linear-gradient(#DAA576, #DAA576);
+  position: absolute;
+  left: 509px;
+  bottom: 112px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-69 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder33.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  position: absolute;
+  left: 247px;
+  top: 23px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-18 {
+  position: relative;
+  display: flex;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-71 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder23.png'), linear-gradient(#F79D77, #F79D77);
+  width: 22px;
+  height: 22px;
+}
+.page-2 .background-border-8 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-fuel-yellow, #EAAE1E);
+  margin: 7px 0;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .container-39 {
+  margin: 0 4px 4px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 144px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-66 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-bottom: 61px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-70 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder9.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  margin-right: 116px;
+  align-self: center;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-15 {
+  background: url('E:/Toury/toury/assets/images/Image37.png');
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 107px 21px 18px 0;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-76 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder3.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-19 {
+  background: url('E:/Toury/toury/assets/images/Image12.png');
+  display: flex;
+  padding: 64px 0 0 94px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-30 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-75 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder23.png'), linear-gradient(#F79D77, #F79D77);
+  margin: 0 11px 30px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .oval-2 {
+  border-radius: 8px;
+  background: #FFFFFF;
+  width: 16px;
+  height: 16px;
+}
+.page-2 .container-25 {
+  backdrop-filter: blur(13.6px);
+  border-radius: 23px;
+  background: #6938D3;
+  position: relative;
+  margin-top: 6px;
+  display: flex;
+  padding: 15px;
+  width: 46px;
+  height: 46px;
+  box-sizing: border-box;
+}
+.page-2 .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 79px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-74 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder23.png'), linear-gradient(#F79D77, #F79D77);
+  position: absolute;
+  right: 20px;
+  bottom: 30px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .location {
+  opacity: 0.595;
+  backdrop-filter: blur(13.6px);
+  border-radius: 62px;
+  background: #B795FF;
+  position: relative;
+  padding: 33px 6px 39px 6px;
+  width: 124px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-2 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder19.png'), linear-gradient(#779BF6, #779BF6);
+  position: absolute;
+  top: 109px;
+  right: 39px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-5 {
+  background: url('E:/Toury/toury/assets/images/Image5.png');
+  position: relative;
+  display: flex;
+  padding: 0 13px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-11 {
+  background: url('E:/Toury/toury/assets/images/Image31.png');
+  width: 256px;
+  height: 256px;
+}
+.page-2 .container-41 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-22 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder11.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-bottom: 11px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-17 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder14.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin-top: 11px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-20 {
+  margin: 0 74px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-16 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder29.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  margin: 45px 30px 10px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-62 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder4.png'), linear-gradient(#EAAE1E, #EAAE1E);
+  margin: 21px 21px 34px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-64 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder21.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin: 40px 25px 15px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-15 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder.png'), linear-gradient(#EA77AA, #EA77AA);
+  margin: 0 0 4px 18px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .background-border-11 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-sandy-brown, #F79D77);
+  margin: 0 2px 21px 2px;
+  align-self: flex-start;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-63 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder25.png'), linear-gradient(#F79D77, #F79D77);
+  margin-right: 18px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-29 {
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  box-sizing: border-box;
+}
+.page-2 .container-31 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: 182px;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-11 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder38.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  margin-bottom: 7px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-73 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder5.png'), linear-gradient(#74BB82, #74BB82);
+  margin-top: 7px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-12 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder35.png'), linear-gradient(#779BF6, #779BF6);
+  margin: 4px 0 3px 0;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-33 {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 149px;
+  box-sizing: border-box;
+}
+.page-2 .container-2 {
+  background: url('E:/Toury/toury/assets/images/Image41.png');
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 6px 92px 6px;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-8 {
+  background: url('E:/Toury/toury/assets/images/Image6.png');
+  width: 256px;
+  height: 256px;
+}
+.page-2 .container-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-6 {
+  background: url('E:/Toury/toury/assets/images/Image11.png');
+  width: 256px;
+  height: 256px;
+}
+.page-2 .container-12 {
+  background: url('E:/Toury/toury/assets/images/Image33.png');
+  width: 256px;
+  height: 256px;
+}
+.page-2 .container-15 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-21 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-22-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-22-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-22-font-size, 22px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-22-line-height, 1.364);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-2 .button-zoom-in {
+  border-radius: 4px 4px 0 0;
+  border-bottom: 1px solid var(--maps-sygic-com-silver, #CCCCCC);
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 0 9px 0 10px;
+  box-sizing: border-box;
+}
+.page-2 .container-22 {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-lucida-console-regular-24-font-family, 'Lucida Console', 'Roboto Condensed');
+  font-weight: var(--maps-sygic-com-lucida-console-regular-24-font-weight, 400);
+  font-size: var(--maps-sygic-com-lucida-console-regular-24-font-size, 24px);
+  line-height: var(--maps-sygic-com-lucida-console-regular-24-line-height, 1.25);
+  color: var(--maps-sygic-com-boulder, #767676);
+}
+.page-2 .button-zoom-out {
+  border-radius: 0 0 4px 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  padding: 0 8.5px 0 9.5px;
+  box-sizing: border-box;
+}
+.page-2 .overlay-shadow-1 {
+  border-radius: 4px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.page-2 .container-28 {
+  margin-bottom: 1.7px;
+  width: 16px;
+  height: 4.2px;
+}
+.page-2 .vector-3 {
+  opacity: 0.5;
+  width: 16px;
+  height: 4.5px;
+}
+.page-2 .link-1 {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.5px 7px 10px 7px;
+  width: 30px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .map-switcher {
+  box-shadow: 0px 0px 0px 1px #CCCCCC;
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  margin: 0 10px 10px 10px;
+  display: flex;
+  width: 30px;
+  box-sizing: border-box;
+}
+.page-2 .m {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-2 .border {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  margin-right: 4px;
+  display: flex;
+  padding-right: 0px;
+  width: 76px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .ft {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-10-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-10-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-10-font-size, 10px);
+  line-height: var(--maps-sygic-com-roboto-regular-10-line-height, 1);
+  color: var(--maps-sygic-com-mine-shaft, #333333);
+}
+.page-2 .border-1 {
+  border-left: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-right: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  border-bottom: 2px solid var(--maps-sygic-com-boulder-1, #777777);
+  display: flex;
+  padding-left: 0px;
+  width: 78px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .overlay {
+  background: var(--maps-sygic-com-nero-70, rgba(255, 255, 255, 0.7));
+  display: flex;
+  flex-direction: row;
+  padding: 4px 10px 2px 10px;
+  width: 178px;
+  box-sizing: border-box;
+}
+.page-2 .container-20 {
+  background: url('E:/Toury/toury/assets/images/Image34.png');
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 3px;
+  width: 256px;
+  height: 256px;
+  box-sizing: border-box;
+}
+.page-2 .container-11 {
+  position: relative;
+  margin-top: 248px;
+  display: flex;
+  padding: 0 13px;
+  width: 256px;
+  height: 264px;
+  box-sizing: border-box;
+}
+.page-2 .container-36 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.page-2 .background-border-10 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-fuel-yellow, #EAAE1E);
+  position: absolute;
+  top: 36px;
+  right: 507px;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-65 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  position: absolute;
+  left: 495px;
+  top: 5px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-27 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.page-2 .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.page-2 .background-border-2 {
+  border-radius: 6px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: var(--maps-sygic-com-sandy-brown, #F79D77);
+  position: absolute;
+  top: 253px;
+  right: 633px;
+  width: 8px;
+  height: 8px;
+}
+.page-2 .image-background-border-3 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder26.png'), linear-gradient(#A9B8D4, #A9B8D4);
+  position: absolute;
+  right: 567px;
+  bottom: 498px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-14 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder32.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  position: absolute;
+  left: 620px;
+  top: 494px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-25 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder15.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  position: absolute;
+  left: 521px;
+  top: 239px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .image-background-border-37 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder37.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  position: absolute;
+  left: 60px;
+  top: 239px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .container-1 {
+  position: relative;
+  display: flex;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-2 .image-background-border-67 {
+  border-radius: 16px;
+  border: 1px solid var(--maps-sygic-com-alabaster, #FAFAFA);
+  background: url('E:/Toury/toury/assets/images/ImageBackgroundBorder6.png'), linear-gradient(#B2C3E4, #B2C3E4);
+  position: absolute;
+  left: -20px;
+  bottom: 64px;
+  width: 22px;
+  height: 22px;
+}
+.page-2 .background {
+  background: url('E:/Toury/toury/assets/images/Background.png') 100%, linear-gradient(#F4F4F4, #F4F4F4);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.page-2 .svg-search {
+  width: 16px;
+  height: 16px;
+}
+.page-2 .container-4 {
+  margin: 18.3px 14px 15.7px 0;
+  display: flex;
+  width: 44px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.page-2 .search-sygic-maps {
+  overflow-wrap: break-word;
+  font-family: var(--maps-sygic-com-roboto-regular-14-font-family, 'Roboto');
+  font-weight: var(--maps-sygic-com-roboto-regular-14-font-weight, 400);
+  font-size: var(--maps-sygic-com-roboto-regular-14-font-size, 14px);
+  color: var(--maps-sygic-com-silver-chalice, #AAAAAA);
+}
+.page-2 .input {
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  padding: 18px 0 16px 0;
+  box-sizing: border-box;
+}
+.page-2 .container-3 {
+  width: 271px;
+  box-sizing: border-box;
+}
+.page-2 .vector-4 {
+  width: 20px;
+  height: 20px;
+}
+.page-2 .vertical-border {
+  border-left: 1px solid var(--maps-sygic-com-alto, #DDDDDD);
+  display: flex;
+  padding: 16.3px 12px 13.7px 12px;
+  width: 45px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.page-2 .background-shadow {
+  box-shadow: 0px 0px 0px 1px #CCCCCC;
+  border-radius: 4px;
+  background: var(--maps-sygic-com-nero, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding-left: 14px;
+  box-sizing: border-box;
+}
+.page-2 .container-2 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.page-2 .container {
+  position: absolute;
+  left: 86px;
+  right: 92px;
+  bottom: 18px;
+  padding: 20px 20px 0 20px;
+  height: 853px;
+  box-sizing: border-box;
+}
+.page-2 .left-arrow {
+  position: absolute;
+  left: 61px;
+  top: 405px;
+  width: 187.5px;
+  height: 125px;
+}
+.page-2 .right-arrow {
+  position: absolute;
+  top: 405px;
+  right: 62.5px;
+  width: 187.5px;
+  height: 125px;
+}
+.container {
+  background: #776753;
+  display: flex;
+  padding-bottom: 77px;
+  width: 1440px;
+  box-sizing: border-box;
+}

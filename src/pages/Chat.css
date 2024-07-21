@@ -1,0 +1,655 @@
+.chat .bg {
+  background: linear-gradient(0deg, rgba(233, 233, 249, 0.6) 0.8%, rgba(225, 226, 255, 0.6) 100%);
+  position: absolute;
+  top: 0px;
+  right: -240px;
+  width: 1600px;
+  height: 1024px;
+}
+.chat .rectangle-1 {
+  filter: blur(127.4px);
+  background: #00FFC2;
+  position: relative;
+  width: 297.5px;
+  height: 297.5px;
+}
+.chat .ellipse-1 {
+  filter: blur(127.4px);
+  position: absolute;
+  left: 308.7px;
+  top: 30.8px;
+  width: 254.8px;
+  height: 254.8px;
+}
+.chat .ellipse-2 {
+  opacity: 0.3;
+  filter: blur(127.4px);
+  border-radius: 182.7px;
+  background: #001AFF;
+  position: absolute;
+  left: 114.8px;
+  top: 210px;
+  width: 365.4px;
+  height: 365.4px;
+}
+.chat .container-8 {
+  position: absolute;
+  top: 58.8px;
+  right: 252px;
+  width: 359.8px;
+  height: 359.8px;
+}
+.chat .mesh-gradient-1 {
+  background: url('E:/Toury/toury/assets/images/MeshGradient.png') 70%;
+  position: relative;
+  padding: 90.3px 82.6px 0 82.6px;
+  width: 1007.3px;
+  height: 837.2px;
+  box-sizing: border-box;
+}
+.chat .mesh-gradient {
+  opacity: 0.3;
+  position: absolute;
+  right: -160px;
+  bottom: -304px;
+  display: flex;
+  padding-right: 0.7px;
+  width: 1440px;
+  height: 1024px;
+  box-sizing: border-box;
+}
+.chat .vector {
+  width: 21px;
+  height: 21px;
+}
+.chat .svg-icon-svg {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.chat .button-new-topic {
+  box-shadow: 0px 0.3px 0.9px 0px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px 0px rgba(0, 0, 0, 0.16);
+  border-radius: 10000px;
+  background: linear-gradient(130deg, #2870EA, #1B4AEF);
+  position: relative;
+  margin: 0 12px 42px 0;
+  display: flex;
+  padding: 14px 13px 13px 14px;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.chat .error-message {
+  opacity: 0.8;
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  color: #E71010;
+}
+.chat .key-field {
+  opacity: 0.8;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #323941;
+}
+.chat .container-12 {
+  border-radius: 4px;
+  border: 1px solid #D5D8DE;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  padding: 20px 16px;
+  width: 632px;
+  box-sizing: border-box;
+}
+.chat .input-fields {
+  position: relative;
+  margin: 0 12.8px 4px 0;
+  padding: 23px 0 22px 0;
+  width: 632px;
+  box-sizing: border-box;
+}
+.chat .vector-1 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.chat .button-menu-add-an-image-to-search-svg-icon-svg {
+  margin: 42.8px 13.7px 3.7px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.chat .vertical-divider {
+  background: rgba(0, 0, 0, 0.1);
+  margin: 40px 15.6px 0 0;
+  width: 1px;
+  height: 24px;
+}
+.chat .vector-3 {
+  width: 12.8px;
+  height: 18.3px;
+}
+.chat .cib-speech-icon-button-svg-icon-svg {
+  margin: 42.8px 19.6px 2.8px 0;
+  display: flex;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.chat .vector-2 {
+  width: 16.3px;
+  height: 16.3px;
+}
+.chat .button-submit-svg-icon-svg {
+  opacity: 0.3;
+  margin: 42px 0 2px 0;
+  display: flex;
+  padding: 1.9px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.chat .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.chat .gradient {
+  border-radius: 0 0 12px 12px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0), #174AE4);
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 780px;
+  height: 12px;
+}
+.chat .background {
+  border-radius: 12px;
+  border: 1px solid #D1D1D1;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 15px 13px 11px 22px;
+  box-sizing: border-box;
+}
+.chat .cib-action-bar {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.chat .vector-4 {
+  width: 31.6px;
+  height: 33.4px;
+}
+.chat .image {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 54px;
+  background: #458981;
+  position: relative;
+  margin: 2.1px 8.9px 2px 0;
+  display: flex;
+  padding: 7.8px 9.4px 6.7px 10.6px;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.chat .heading-copilot {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 1.3;
+  color: #111111;
+}
+.chat .container-7 {
+  margin: 0 0 12px 36.7px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chat .heading-your-everyday-ai-companion {
+  margin: 0 0 32px 45.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111111;
+}
+.chat .image-shadow {
+  box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background: url('E:/Toury/toury/assets/images/ImageShadow.png');
+  width: 32px;
+  height: 32px;
+}
+.chat .button-click-to-scroll-left {
+  border-radius: 16px;
+  margin: 188px 13px 188px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.chat .th {
+  background: url('E:/Toury/toury/assets/images/Th4.jpeg');
+  width: 224px;
+  height: 260px;
+}
+.chat .button {
+  border-radius: 12px;
+  display: flex;
+  width: 224px;
+  height: 260px;
+  box-sizing: border-box;
+}
+.chat .listitem {
+  border-radius: 6px;
+  position: absolute;
+  left: -193px;
+  top: 60px;
+  display: flex;
+  width: 224px;
+  height: 76px;
+  box-sizing: border-box;
+}
+.chat .th-1 {
+  background: url('E:/Toury/toury/assets/images/Th3.jpeg');
+  width: 224px;
+  height: 260px;
+}
+.chat .container-2 {
+  border-radius: 12px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  width: 224px;
+  height: 260px;
+  box-sizing: border-box;
+}
+.chat .what-are-some-ways-to-overcome-procrastination {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.chat .border-1 {
+  opacity: 0.9;
+  border-radius: 8px;
+  border: 1px solid #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 244px;
+  height: 56px;
+}
+.chat .overlay-shadow-overlay-blur {
+  box-shadow: 0px 6.4px 14.4px 0px rgba(0, 0, 0, 0.13);
+  backdrop-filter: blur(15px);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.85);
+  position: relative;
+  display: flex;
+  padding: 8px 13.4px 8px 12px;
+  box-sizing: border-box;
+}
+.chat .listitem-1 {
+  border-radius: 6px;
+  position: relative;
+  margin: 55.1px 1.8px 0 0;
+  padding-top: 228px;
+  width: 258px;
+  box-sizing: border-box;
+}
+.chat .th-2 {
+  background: url('E:/Toury/toury/assets/images/Th.jpeg');
+  width: 284.5px;
+  height: 330.2px;
+}
+.chat .container-3 {
+  border-radius: 12px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 284.5px;
+  height: 330.2px;
+  box-sizing: border-box;
+}
+.chat .coach-me-through-an-upcoming-job-interview-with-some-mock-questions {
+  position: absolute;
+  left: 12px;
+  bottom: -2px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.chat .border-2 {
+  opacity: 0.9;
+  border-radius: 8px;
+  border: 1px solid #FFFFFF;
+  width: 244px;
+  height: 76px;
+}
+.chat .overlay-shadow-overlay-blur-1 {
+  box-shadow: 0px 6.4px 14.4px 0px rgba(0, 0, 0, 0.13);
+  backdrop-filter: blur(15px);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.85);
+  position: relative;
+  display: flex;
+  width: 244px;
+  height: 76px;
+  box-sizing: border-box;
+}
+.chat .listitem-2 {
+  border-radius: 6px;
+  position: relative;
+  margin-right: 21.8px;
+  display: flex;
+  padding: 263.1px 20.2px 0 20.2px;
+  width: 294px;
+  height: 96px;
+  box-sizing: border-box;
+}
+.chat .th-3 {
+  background: url('E:/Toury/toury/assets/images/Th1.jpeg');
+  width: 224px;
+  height: 260px;
+}
+.chat .container-4 {
+  border-radius: 12px;
+  background: url('E:/Toury/toury/assets/images/Container.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  width: 224px;
+  height: 260px;
+  box-sizing: border-box;
+}
+.chat .compose-apop-song-about-adventures-in-the-summer-rain {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.chat .border-3 {
+  opacity: 0.9;
+  border-radius: 8px;
+  border: 1px solid #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.chat .strong-suno {
+  position: absolute;
+  left: 12px;
+  bottom: 8.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.chat .terms {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 9.7px;
+  line-height: 2.065;
+  color: #000000;
+}
+.chat .link {
+  position: absolute;
+  left: 43px;
+  bottom: 8.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.chat .container {
+  position: absolute;
+  left: 70.2px;
+  bottom: 10.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.chat .privacy {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.chat .link-1 {
+  position: absolute;
+  left: 78.4px;
+  bottom: 8.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.chat .overlay-shadow-overlay-blur-2 {
+  box-shadow: 0px 6.4px 14.4px 0px rgba(0, 0, 0, 0.13);
+  backdrop-filter: blur(15px);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.85);
+  position: relative;
+  padding: 8px 12px 30px 12px;
+  box-sizing: border-box;
+}
+.chat .listitem-3 {
+  border-radius: 6px;
+  position: relative;
+  margin-top: 55.1px;
+  padding: 206px 0 0 14px;
+  width: 224px;
+  box-sizing: border-box;
+}
+.chat .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 858px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chat .th-4 {
+  background: url('E:/Toury/toury/assets/images/Th2.jpeg');
+  width: 224px;
+  height: 260px;
+}
+.chat .button-1 {
+  border-radius: 12px;
+  display: flex;
+  width: 224px;
+  height: 260px;
+  box-sizing: border-box;
+}
+.chat .listitem-4 {
+  border-radius: 6px;
+  position: absolute;
+  top: 60px;
+  right: -193px;
+  display: flex;
+  width: 224px;
+  height: 78px;
+  box-sizing: border-box;
+}
+.chat .container-1 {
+  position: absolute;
+  top: 0px;
+  right: 3px;
+  bottom: -34px;
+  display: flex;
+  padding: 4.9px 9px 0 0;
+  width: 842px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.chat .container {
+  position: relative;
+  width: 848px;
+  height: 408px;
+}
+.chat .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: 893px;
+  box-sizing: border-box;
+}
+.chat .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 893px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chat .image-shadow-1 {
+  box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background: url('E:/Toury/toury/assets/images/ImageShadow.png');
+  width: 32px;
+  height: 32px;
+}
+.chat .button-click-to-scroll-right {
+  border-radius: 16px;
+  position: absolute;
+  right: 0px;
+  bottom: 188px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.chat .slot {
+  position: absolute;
+  left: 171px;
+  top: 73px;
+  display: flex;
+  padding-right: 12px;
+  width: 840px;
+  box-sizing: border-box;
+}
+.chat .home {
+  margin: 0 9.5px 3px 0;
+  display: inline-block;
+  width: 58px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.chat .destinations {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.chat .locations-picks {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.chat .foreigner-tours {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFBC00;
+}
+.chat .container-5 {
+  margin: 0 1.6px 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 555.4px;
+  box-sizing: border-box;
+}
+.chat .rectangle-77 {
+  background: rgba(255, 188, 0, 0.9);
+  width: 120px;
+  height: 2px;
+}
+.chat .group-77 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 557px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chat .assistance {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.chat .frame-1 {
+  background: linear-gradient(180deg, rgba(74, 96, 116, 0.8) 58.5%, rgba(33, 31, 31, 0.8) 75%);
+  position: absolute;
+  top: -12px;
+  right: -80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 0 37px 0;
+  width: 1440px;
+  height: 87px;
+  box-sizing: border-box;
+}
+.chat {
+  background: #FFFFFF;
+  display: flex;
+  padding: 603px 0 27px 0;
+  width: 1280px;
+  box-sizing: border-box;
+}
